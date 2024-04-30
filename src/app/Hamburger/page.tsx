@@ -25,10 +25,10 @@ const DropdownMenuHamburger = () => {
       {isMenuOpen && (
         <ul className="absolute top-full left-1/2 transform -translate-x-1/2 text-black bg-white shadow-md rounded-md py-2 px-12 mt-1">
           <li className="text-center">
-            <Link href="#">Menu Item 1</Link>
+            <Link href="#">Loans</Link>
           </li>
           <li className="text-center">
-            <Link href="#">Menu Item 2</Link>
+            <Link href="#">Raffle</Link>
           </li>
           
         </ul>
