@@ -2,7 +2,7 @@ import React from 'react'
 import ComponentsPage from '../Components/page'
 
 
-function MyLoanspage() {
+function Fundedpage() {
   return (
     <div className=' bg-black '>
         <ComponentsPage/>
@@ -11,4 +11,4 @@ function MyLoanspage() {
   )
 }
 
-export default MyLoanspage
+export default Fundedpage
